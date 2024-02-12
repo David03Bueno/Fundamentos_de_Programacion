@@ -1,0 +1,28 @@
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\bin\Debug\net7.0\Sema 5 EstrucCondicional.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\bin\Debug\net7.0\Sema 5 EstrucCondicional.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\bin\Debug\net7.0\Sema 5 EstrucCondicional.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\bin\Debug\net7.0\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\bin\Debug\net7.0\Sema 5 EstrucCondicional.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\refint\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\Sema 5 EstrucCondicional.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Sema 5 EstrucCondicional\obj\Debug\net7.0\ref\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\bin\Debug\net7.0\Sema 5 EstrucCondicional.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\bin\Debug\net7.0\Sema 5 EstrucCondicional.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\bin\Debug\net7.0\Sema 5 EstrucCondicional.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\bin\Debug\net7.0\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\bin\Debug\net7.0\Sema 5 EstrucCondicional.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\refint\Sema 5 EstrucCondicional.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\Sema 5 EstrucCondicional.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa5\obj\Debug\net7.0\ref\Sema 5 EstrucCondicional.dll

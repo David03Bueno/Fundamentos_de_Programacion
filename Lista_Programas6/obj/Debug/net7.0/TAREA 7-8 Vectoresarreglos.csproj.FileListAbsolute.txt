@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\bin\Debug\net7.0\TAREA 7-8 Vectoresarreglos.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\bin\Debug\net7.0\TAREA 7-8 Vectoresarreglos.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\bin\Debug\net7.0\TAREA 7-8 Vectoresarreglos.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\bin\Debug\net7.0\TAREA 7-8 Vectoresarreglos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\bin\Debug\net7.0\TAREA 7-8 Vectoresarreglos.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\refint\TAREA 7-8 Vectoresarreglos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\TAREA 7-8 Vectoresarreglos.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\TAREA 7-8 Vectoresarreglos\obj\Debug\net7.0\ref\TAREA 7-8 Vectoresarreglos.dll

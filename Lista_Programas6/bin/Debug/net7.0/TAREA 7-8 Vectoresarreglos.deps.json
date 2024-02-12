@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TAREA 7-8 Vectoresarreglos/1.0.0": {
+        "runtime": {
+          "TAREA 7-8 Vectoresarreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAREA 7-8 Vectoresarreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

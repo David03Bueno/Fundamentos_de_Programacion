@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\bin\Debug\net7.0\Ciclos.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\bin\Debug\net7.0\Ciclos.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\bin\Debug\net7.0\Ciclos.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\bin\Debug\net7.0\Ciclos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\bin\Debug\net7.0\Ciclos.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\refint\Ciclos.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\Ciclos.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\Semana_7\Ciclos\obj\Debug\net7.0\ref\Ciclos.dll

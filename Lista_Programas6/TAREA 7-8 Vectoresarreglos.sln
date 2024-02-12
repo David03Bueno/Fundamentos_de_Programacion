@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAREA 7-8 Vectoresarreglos", "TAREA 7-8 Vectoresarreglos.csproj", "{560EE0F9-37C6-4CAD-98AD-771DE4A268C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560EE0F9-37C6-4CAD-98AD-771DE4A268C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560EE0F9-37C6-4CAD-98AD-771DE4A268C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560EE0F9-37C6-4CAD-98AD-771DE4A268C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560EE0F9-37C6-4CAD-98AD-771DE4A268C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A14797-4F30-47EF-B266-BB81CDB7EEE9}
+	EndGlobalSection
+EndGlobal

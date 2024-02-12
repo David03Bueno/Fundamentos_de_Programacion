@@ -1,0 +1,28 @@
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\bin\Debug\net7.0\programa2.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\bin\Debug\net7.0\programa2.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\bin\Debug\net7.0\programa2.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\bin\Debug\net7.0\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\bin\Debug\net7.0\programa2.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\refint\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\programa2.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\programa2\obj\Debug\net7.0\ref\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\bin\Debug\net7.0\programa2.exe
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\bin\Debug\net7.0\programa2.deps.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\bin\Debug\net7.0\programa2.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\bin\Debug\net7.0\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\bin\Debug\net7.0\programa2.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\refint\programa2.dll
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.pdb
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\programa2.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\MATERIAS_DE_ ITLA\Tercer_Cuatrimestre\FUNDAMENTO DE PROGRAMACION\PRIMEROS PROGRAMAS\programa2\obj\Debug\net7.0\ref\programa2.dll
